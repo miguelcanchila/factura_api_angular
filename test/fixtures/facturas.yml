@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  NoFactura: 1
+  Detalle: MyString
+  Cantidad: 1
+  Precio: MyString
+  PorcIva: 1
+
+two:
+  NoFactura: 1
+  Detalle: MyString
+  Cantidad: 1
+  Precio: MyString
+  PorcIva: 1

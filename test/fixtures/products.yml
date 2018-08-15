@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Codigo: 1
+  Descripcion: MyString
+  Unidad: 1
+  PorcImpuesto: 1
+  Precio: MyString
+
+two:
+  Codigo: 1
+  Descripcion: MyString
+  Unidad: 1
+  PorcImpuesto: 1
+  Precio: MyString
